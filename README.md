@@ -30,17 +30,20 @@ that require correct order of operations (BODMAS/PEMDAS).
 ## How to Run
 
 1. Clone this repository
+
 \```
 git clone https://github.com/BiradarLaxmi-6345/Agentic-AI.git
 cd Agentic-AI
 \```
 
 2. Install dependencies
+
 \```
 pip install -r requirements.txt
 \```
 
 3. Run the app
+
 \```
 python app.py
 \```
